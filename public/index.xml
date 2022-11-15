@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masquerave Podcast</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Masquerave Podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Nov 2022 23:56:09 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1</title>
+      <link>http://example.org/posts/50/</link>
+      <pubDate>Tue, 15 Nov 2022 23:56:09 +0100</pubDate>
+      
+      <guid>http://example.org/posts/50/</guid>
+      <description>Test Long live whistle bass</description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>http://example.org/posts/49/</link>
+      <pubDate>Tue, 15 Nov 2022 23:43:58 +0100</pubDate>
+      
+      <guid>http://example.org/posts/49/</guid>
+      <description>Test Long live whistle bass</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,3 +2,31 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Masquerave Podcast'
 theme = "hugo-cards"
+
+[params]
+  builtBy = "Zeibura"
+  defaultImage = "1.png"
+
+  facebook = ""
+  quora = ""
+  twitter = "http://twitter.com/zeibura"
+  github = "http://github.com/masquerave"
+  email = "zeibura@gmail.com"
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  disqus = ""
+  
+  custom_css = ["css/custom.css"]
+
+  [params.analytics]
+    type="UA"
+    trackingID = ""
+
+  [params.copyright]
+     name = "Masquerave"
+     link = ""
+
