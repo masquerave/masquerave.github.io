@@ -1,8 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "32"
+date: 2022-11-16T01:12:56+01:00
 draft: false
-img: "{{ .Name }}.png"
+img: "32.png"
 ---
 
 Text
@@ -10,6 +10,7 @@ Text
 **Date**: 
 **Length**: 
 **Guest**:   
+**Release of the month**: 
 
 <div>
 

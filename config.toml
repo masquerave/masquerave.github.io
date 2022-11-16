@@ -30,3 +30,6 @@ theme = "hugo-cards"
      name = "Masquerave"
      link = ""
 
+[markup.goldmark.renderer]
+unsafe= true
+
