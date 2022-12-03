@@ -11,7 +11,7 @@ This month after the round up of new tunes from the last month, it's time for on
 
 **Date**: November 2018  
 **Length**: 1:05:15  
-**Guest**: None
+**Guest**: None  
 **Release of the month**: Wayv D – Augmented [Low End]
 
 <div>
