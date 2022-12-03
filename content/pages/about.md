@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The Masquerave Podcast is a regular podcast by Prague-based UK bass DJ and producer Z-Kat that aims to showcase the best new music from the bass scene.
+The Masquerave Podcast is a regular podcast by Prague-based UK bass DJ and producer [Z-Kat](http://z-kat.bandcamp.com) that aims to showcase the best new music from the bass scene.
 
 Masquerave began as a monthly podcast in December 2014 in which Z-Kat played a mix of the hottest tunes of the last month, often accompanied by a guest mix or feature mix with a theme. Each podcast also featured a "release of the month" which celebrated the one EP or album from the last month's selection which excelled the most in the now dying art of making a good release (as opposed to simply a collection of good tracks).
 

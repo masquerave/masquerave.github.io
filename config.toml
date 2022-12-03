@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://www.masquerave.cz/'
 languageCode = 'en-us'
 title = 'Masquerave Podcast'
 theme = "hugo-cards"
@@ -7,7 +7,7 @@ theme = "hugo-cards"
   builtBy = "Zeibura"
   defaultImage = "1.png"
 
-  facebook = ""
+  facebook = "https://www.facebook.com/masqueravecz"
   quora = ""
   twitter = "http://twitter.com/zeibura"
   github = "http://github.com/masquerave"
