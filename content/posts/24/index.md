@@ -1,6 +1,6 @@
 ---
 title: "#24 – NORTHERN LIGHTS EDITION FEAT. WHATSMAN"
-date: 2022-11-16T01:12:31+01:00
+date: 2016-11-30T01:12:31+01:00
 draft: false
 img: "24.png"
 ---

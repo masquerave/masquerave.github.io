@@ -1,6 +1,6 @@
 ---
 title: "#30 – TRINITY EDITION FEAT. MYA & SBSTRD"
-date: 2022-11-16T01:12:50+01:00
+date: 2017-05-31T01:12:50+01:00
 draft: false
 img: "30.png"
 ---

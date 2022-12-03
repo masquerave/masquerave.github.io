@@ -1,6 +1,6 @@
 ---
 title: "#39 – HISTRIONICS EDITION FEAT. TEA TRALNA"
-date: 2022-11-16T01:13:20+01:00
+date: 2018-02-28T01:13:20+01:00
 draft: false
 img: "39.png"
 ---

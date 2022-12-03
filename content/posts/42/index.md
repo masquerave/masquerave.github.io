@@ -1,6 +1,6 @@
 ---
 title: "#42 – MEANING OF LIFE EDITION FEAT. DANKA"
-date: 2022-11-16T01:13:30+01:00
+date: 2018-05-30T01:13:30+01:00
 draft: false
 img: "42.png"
 ---

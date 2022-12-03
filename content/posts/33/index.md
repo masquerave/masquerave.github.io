@@ -1,6 +1,6 @@
 ---
 title: "#33 – LETNÍ PIVO EDITION"
-date: 2022-11-16T01:13:00+01:00
+date: 2017-08-29T01:13:00+01:00
 draft: false
 img: "33.png"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "#29 FEAT. ASPECT SELECTAH"
-date: 2022-11-16T01:12:46+01:00
+date: 2017-04-30T01:12:46+01:00
 draft: false
 img: "29.png"
 ---

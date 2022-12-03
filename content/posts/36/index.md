@@ -1,6 +1,6 @@
 ---
 title: "#36 FEAT. SAMPLE JUNKIE"
-date: 2022-11-16T01:13:11+01:00
+date: 2017-11-30T01:13:11+01:00
 draft: false
 img: "36.png"
 ---

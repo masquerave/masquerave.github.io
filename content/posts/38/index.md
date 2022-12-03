@@ -1,6 +1,6 @@
 ---
 title: "#38 – NO RULES EDITION FEAT. UNKNXWN"
-date: 2022-11-16T01:13:17+01:00
+date: 2018-01-31T01:13:17+01:00
 draft: false
 img: "38.png"
 ---

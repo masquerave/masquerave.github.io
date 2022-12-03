@@ -1,6 +1,6 @@
 ---
 title: "#40 – ELECTROSTIMULATION SPECIAL"
-date: 2022-11-16T01:13:24+01:00
+date: 2018-03-31T01:13:24+01:00
 draft: false
 img: "40.png"
 ---

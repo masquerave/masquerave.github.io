@@ -1,6 +1,6 @@
 ---
 title: "#34 – SAUNA EDITION FEAT. STIFLER SELECTA"
-date: 2022-11-16T01:13:03+01:00
+date: 2017-09-30T01:13:03+01:00
 draft: false
 img: "34.png"
 ---
