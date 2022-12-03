@@ -1,6 +1,4 @@
-# WWW.MASQUERAVE.CZ 
-# SUPPORT NEW MUSIC 
-# DON'T STOP THE HYPE
+# www.masquerave.cz
 
 Welcome to the Github repository for the Masquerave website!
 
