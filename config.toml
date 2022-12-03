@@ -1,4 +1,4 @@
-baseURL = 'http://www.masquerave.cz/'
+baseURL = 'https://masquerave.github.io/'
 languageCode = 'en-us'
 title = 'Masquerave Podcast'
 theme = "hugo-cards"
