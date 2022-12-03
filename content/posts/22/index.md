@@ -7,7 +7,7 @@ img: "22.png"
 
 This month Z-Kat and Kewu take it back to back for an hour and twenty while in exile in DJ Lab in Jižní Město, mixing on three decks, which gives our guest space to mix in some classic grime acapellas and other interesting flavours to Z-Kat's usual round-up of the best tunes of the last month.
 
-**Date**: September 2016
+**Date**: September 2016  
 **Length**: 1:20:50  
 **Guest**: Kewu  
 **Release of the month**: Dr Oscillator – RS Turbo [Chip Butty]
