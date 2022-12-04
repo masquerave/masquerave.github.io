@@ -2,6 +2,7 @@ baseURL = 'https://masquerave.github.io/'
 languageCode = 'en-us'
 title = 'Masquerave Podcast'
 theme = "hugo-cards"
+paginate = 12
 
 [params]
   builtBy = "Zeibura"
