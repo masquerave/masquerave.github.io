@@ -1,7 +1,7 @@
 ---
 title: "#52 – 2022 IN REVIEW"
 date: 2022-12-24T15:57:17+01:00
-draft: true
+draft: false
 img: "52.png"
 ---
 
