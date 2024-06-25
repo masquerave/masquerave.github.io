@@ -51,8 +51,8 @@ It's time for another round-up of all the sickest tunes from this year's Bandcam
 32. Dubzta – Animalistic
 33. Tdawgwillywacka – P'z & Z'z
 34. Phatworld feat. Forca – Shot Put
-35. Z-Kat – Klezmer Riddim
-36. Z-Kat – Klezmer Riddim (Tdawgwillywacka remix)
+35. Z-Kat – Eastern Soundboy
+36. Z-Kat – Eastern Soundboy (Tdawgwillywacka remix)
 37. Yourboykiran – Why Can't They Dance There
 38. Kyumay – Gaskeeper
 39. Z-Kat & SBSTRD feat. Kylie – Car Hole Riddim
