@@ -1,6 +1,6 @@
 ---
 title: "#59 – DIAMONDS EDITION"
-date: 2025-10-23T20:00:00+01:00
+date: 2025-10-23T20:00:00+02:00
 draft: false
 img: "59.png"
 ---
